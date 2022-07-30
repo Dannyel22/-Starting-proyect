@@ -1,2 +1,2 @@
-# Starting-proyect
+# Starting-project
 First touche
